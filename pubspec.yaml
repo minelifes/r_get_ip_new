@@ -1,7 +1,7 @@
 name: r_get_ip
 description: About get ip address.
 version: 0.1.4
-homepage: https://github.com/rhymelph/r_get_ip
+homepage: https://github.com/minelifes/r_get_ip_new
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
